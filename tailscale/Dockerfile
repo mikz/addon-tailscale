@@ -15,6 +15,7 @@ RUN \
         iproute2=6.9.0-r0 \
         iptables=1.8.10-r3 \
         nginx=1.26.2-r0 \
+        nginx-debug=1.26.2-r0 \
         coreutils=9.5-r1 \
         networkmanager-common=1.46.2-r0 \
     \
